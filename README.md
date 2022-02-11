@@ -1,1 +1,1 @@
-# poo
+Guiões para a cadeira de POO
